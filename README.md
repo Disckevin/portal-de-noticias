@@ -1,7 +1,7 @@
-<h1 align="center"> Portyal de Notícias </h1>
+<h1 align="center"> Portal de Notícias </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Esse é um dos projetos desenvolvidos em aula na formação Full-Stack, um de nossos conteúdos de especialização.
 </p>
 
 <p align="center">
@@ -27,15 +27,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScriptw
 - Git
 - Github
 - Figma
 
 ## 💻 Projeto
 
-O projeto é um site responsivo para montar um roteiro de viagem, cadastrando atividades. <br>
-Esse é um dos projetos do evento NLW Journey, um dos conteúdos disponíveis para alunos da Rocketseat.
+Nesse projeto você vai desenvolver a homepage de um portal de notícias sobre tecnologia para ser visualizado em um desktop. <br>
+
+Esse é um dos projetos desenvolvidos em aula na formação Full-Stack, um de nossos conteúdos de especialização.
 
 ## 🔖 Layout
 
